@@ -116,7 +116,7 @@ public class About extends JDialog {
 
     private void closeButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_closeButtonActionPerformed
         setVisible(false);
-        dispose(); // Isso é um comentário desnecessário!
+        dispose(); // Isso é um comentário desnecessário! Novo teste!
     }//GEN-LAST:event_closeButtonActionPerformed
 
 
